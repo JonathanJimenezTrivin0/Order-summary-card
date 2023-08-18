@@ -142,7 +142,7 @@ body {
   cursor: pointer;
   border-radius: 10px;
   background-color: var(--Bright-blue);
-  color: var(--Pale-blue);
+  color: #fff;
   box-shadow: 6px 15px 77px -6px rgba(56, 41, 224, 0.4);
   -webkit-box-shadow: 6px 15px 77px -6px rgba(56, 41, 224, 0.4);
   -moz-box-shadow: 6px 15px 77px -6px rgba(56, 41, 224, 0.4);
